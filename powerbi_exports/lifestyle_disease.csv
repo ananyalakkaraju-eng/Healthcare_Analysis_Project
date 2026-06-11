@@ -1,0 +1,9 @@
+smoking,alcohol_consumption,exercise,patients,heart_disease_pct,diabetes_pct,avg_bmi
+Yes,No,No,120,28.3,17.5,29.03
+Yes,No,Yes,131,26.0,21.4,29.19
+No,No,Yes,134,24.6,19.4,29.21
+Yes,Yes,Yes,126,15.9,22.2,29.25
+No,No,No,120,25.0,14.2,28.77
+No,Yes,No,130,31.5,23.1,29.49
+No,Yes,Yes,114,20.2,17.5,29.25
+Yes,Yes,No,125,30.4,12.8,29.46

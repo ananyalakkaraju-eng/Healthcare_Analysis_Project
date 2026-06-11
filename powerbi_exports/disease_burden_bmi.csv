@@ -1,0 +1,4 @@
+bmi_category,patients,heart,diabetes,stroke,cancer
+Obese,449,113.0,75.0,59.0,41.0
+Normal,294,75.0,56.0,35.0,32.0
+Overweight,257,65.0,55.0,40.0,27.0
